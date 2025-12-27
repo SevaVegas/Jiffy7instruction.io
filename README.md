@@ -1,5 +1,3 @@
-# Jiffy7instruction.io
-instuction jiffy7
 <!DOCTYPE html>
 <html lang="ru">
 <head>
